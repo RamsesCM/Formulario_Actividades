@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Desarrollando una aplicación</string>
+    <string name="nombre">Nombre completo</string>
+    <string name="telefono">Teléfono</string>
+    <string name="correo">Correo</string>
+    <string name="descripcion">Descripción del contacto</string>
+    <string name="txt_btn">Siguiente</string>
+    <string name="txt_btn2">Editar</string>
+
+    <string name="pnombre">nombre</string>
+    <string name="pemail">correo</string>
+    <string name="pdesc">descripción</string>
+    <string name="pcel">teléfono</string>
+    <string name="pfecha">fecha</string>
+
+    <string name="tvNameTxt">Nombre:</string>
+    <string name="tvDateTxt">Fecha Nacimiento:</string>
+    <string name="tvTelTxt">Tel.</string>
+    <string name="tvEmailTxt">Email:</string>
+    <string name="tvDescTxt">Descripción:</string>
+
+    <string name="title">Confirmar Datos</string>
+</resources>

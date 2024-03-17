@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Desarrollando una aplicación</string>
+    <string name="nombre">Full name</string>
+    <string name="telefono">Cell phone</string>
+    <string name="correo">Email</string>
+    <string name="descripcion">Contact Description</string>
+    <string name="txt_btn">Next</string>
+    <string name="txt_btn2">Edit</string>
+
+    <string name="pnombre">name</string>
+    <string name="pemail">email</string>
+    <string name="pdesc">description</string>
+    <string name="pcel">cell phone</string>
+    <string name="pfecha">date</string>
+
+    <string name="tvNameTxt">Name:</string>
+    <string name="tvDateTxt">Birth date:</string>
+    <string name="tvTelTxt">Cel.</string>
+    <string name="tvEmailTxt">Email:</string>
+    <string name="tvDescTxt">Description:</string>
+
+    <string name="title">Confirm Data</string>
+</resources>
